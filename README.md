@@ -26,6 +26,12 @@ All of the controls on the screen will self-explanatory, except for the L2/R2 bu
 7. Enjoy the game.
 
 Note: Don't delete any of the assets folders.
+
+# Issues
+The game will run poorly if you set some graphic options to the highest setting. Trying to poke around in the settings menu.
+Setting multiple graphic options tot he highest setting will cause textures to not load correctly and therefore will give out a white space.
+It's recommended to set everything to the lowest setting.
+
 # Credits
 - [Rinnegatamante](https://github.com/Rinnegatamante) for making the YoYo Loader
 - [JohnnyOnFlame](https://github.com/JohnnyonFlame) for making the Externalize All Textures script for UTMT
