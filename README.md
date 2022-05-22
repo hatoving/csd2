@@ -40,4 +40,5 @@ It's recommended to set everything to the lowest setting for the best performanc
 # Credits
 - [Rinnegatamante](https://github.com/Rinnegatamante) for making the YoYo Loader
 - [JohnnyOnFlame](https://github.com/JohnnyonFlame) for making the Externalize All Textures script for UTMT
+- [CatoTheYounger](https://gist.github.com/CatoTheYounger97) for making the guides
 - [Vertigo Gaming](https://vertigo-games.com) for making the original game
