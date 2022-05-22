@@ -30,7 +30,7 @@ Note: Don't delete any of the assets folders.
 # Issues
 The game will run poorly if you set some graphic options to the highest setting. Trying to poke around in the settings menu.
 Setting multiple graphic options tot he highest setting will cause textures to not load correctly and therefore will give out a white space.
-It's recommended to set everything to the lowest setting.
+It's recommended to set everything to the lowest setting for the best performance possible.
 
 # Credits
 - [Rinnegatamante](https://github.com/Rinnegatamante) for making the YoYo Loader
