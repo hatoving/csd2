@@ -21,6 +21,8 @@ All of the controls on the screen will self-explanatory, except for the L2/R2 bu
 2. Download and install the .VPK from the Releases page.
 3. Patch the `data.win` file at the game's directory using xDelta and save it as `game.droid`.
 4. Open the `.APK` file in `ux0:app/CSD2VITA0` and put the `game.droid` file into the assets folder of the file.
+5. Create a folder called `CSD2VITA0` in `ux0:/app/data/gms`.
+6. Download the `data.zip` file and and put the `assets` folder in it into the newly created folder.
 7. Enjoy the game.
 
 Note: Don't delete any of the assets folders.
