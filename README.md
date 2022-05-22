@@ -9,28 +9,25 @@ All of the controls on the screen will self-explanatory, except for the L2/R2 bu
 
  How to Install
 ## For the Runner
-1. Buy the game on Steam and download the patch from the Releases page.
-2. Create a folder for the game in ``ux0:data/gms/``-
-3. Download the `.APK` file.
-4. Grab every single file from the game folder on your PC (except for the `.exe` file) and put it in the assets folder of the `.APK`.
-5. Drag it to the folder you created on your PS Vita.
-6. Open up YoYoLoader and externalize the game's assets by using the `Optimize APK with Asset Externalization` option (with `Compress Textures` on) and following [this guide by CatoTheYounger](https://gist.github.com/CatoTheYounger97/ddc2dd4ec459212466ea6f9887bc764b). Note, this will take a lot of time, espicially on Texture Externalization.
-7. Grab the `game.droid` file you used to externalize the assets and patch it using xDelta. Drag the finished file to the assets folder of the `.APK`.
-8. Once you're done, make sure to set `Fake Windows` on in YoYo Loader.
-9. Enjoy the game.
+
+1. Download the patch file and buy Cook, Serve, Delicious! 2!! on Steam.
+2. Download and install the `.VPK` from the Releases page.
+3. Patch the `data.win` file at the game's directory using xDelta and save it as `game.droid`.
+4. Download the `.APK` file from the Releases page and drag in the patched `game.droid` into the assets folder of the `.APK` file.
+5. Create a folder for the game in `ux0:/app/data/gms`.
+6. Download the `data.zip` file and and put the `assets` folder in it into the newly created folder.
+7. Drag in the `.APK` into the same folder as the `assets` folder on your Vita.
+8. Enjoy the game.
 
 ## For the Standalone VPK
 
-1. Buy the game on Steam and download the patch from the Releases page.
-2. Create a folder for the game in ``ux0:data/gms/`` called `CSD2VITA0`.
-3. Download the .APK file.
-4. Download the `.VPK` file and install it.
-5. Grab every single file from the game folder on your PC (except for the `.exe` file) and put it in the assets folder of the `.APK`.
-6. Drag it to the folder you created on your PS Vita.
-7. Open up YoYoLoader and externalize the game's assets by using the `Optimize APK with Asset Externalization` option (with `Compress Textures` on) and [this guide by CatoTheYounger](https://gist.github.com/CatoTheYounger97/ddc2dd4ec459212466ea6f9887bc764b). Note, this will take a lot of time, espicially on Texture Externalization.
-8. Once you're done, replace the `game.apk` from `ux0:app/CSD2VITA0` with the `game.apk` file you used to externalize the assets.
-9. Grab the `game.droid` file from the `.APK` and patch it using xDelta. Drag the finished file to the assets folder of the `.APK`.
-10. Enjoy the game.
+1. Download the patch file and buy Cook, Serve, Delicious! 2!! on Steam.
+2. Download and install the `.VPK` from the Releases page.
+3. Patch the `data.win` file from the game's directory using xDelta and save it as `game.droid`.
+4. Open the `.APK` file in `ux0:app/CSD2VITA0` and put the game.droid file into the assets folder of the file.
+5. Create a folder called `CSD2VITA0` in `ux0:/app/data/gms`.
+6. Download the `data.zip` file and and put the `assets` folder in it into the newly created folder.
+7. Enjoy the game.
 
 Note: Don't delete any of the assets folders.
 
