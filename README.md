@@ -4,10 +4,10 @@ Cook, Serve, Delicious! 2!! is the massive sequel to the surprise best selling o
 This repo contains a patch made specifically for the [YoYo Loader](https://github.com/Rinnegatamante/yoyoloader_vita) by [Rinnegatamante](https://github.com/Rinnegatamante).
 
 # Controls
-All of the controls on the screen will self-explanatory, except for the L2/R2 buttons.
+All of the controls on the screen is self-explanatory, except for the L2/R2 buttons.
 - L2/R2: Rear Touch
 
- How to Install
+# How to Install
 ## For the Runner
 1. Buy the game on Steam and download the patch from the Releases page.
 2. Create a folder for the game in ``ux0:data/gms/``.
