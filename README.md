@@ -35,9 +35,9 @@ All of the controls on the screen will self-explanatory, except for the L2/R2 bu
 Note: Don't delete any of the assets folders.
 
 # Issues
-The game will run poorly if you set some graphic options to the highest setting. Trying to poke around in the settings menu.
+The game will run poorly or will even crash if you set some graphic options to the highest setting, or even at the medium setting. 
 Setting multiple graphic options tot he highest setting will cause textures to not load correctly and therefore will give out a white space.
-It's recommended to set everything to the lowest setting for the best performance possible.
+It's recommended to set everything to the lowest setting for the best performance and experience possible.
 
 # Credits
 - [Rinnegatamante](https://github.com/Rinnegatamante) for making the YoYo Loader
